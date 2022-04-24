@@ -55,7 +55,7 @@
 
 **Database**
 <img width="52" height="52" src="https://a2a-expertise.com/wp-content/uploads/2018/12/mysql-70x70.png">
-<img width="52" height="52" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif">
+<img width="52" height="52" src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png">
 
 ## You can reach me on:
   - ✉ Email: jaden.hoenes@gmail.com
