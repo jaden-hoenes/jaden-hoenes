@@ -1,6 +1,6 @@
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jaden-hoenes)](https://github.com/evirunurm/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">[![My Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=jaden-hoenes)](https://github.com/evirunurm/github-stats)
 
-<details>
+<!--<details>
 <summary>My Interests 🐧</summary>
   <br>
   <ul>
@@ -32,7 +32,7 @@
     <li><a href="https://www.linkedin.com/in/evelin-v-224037213/">LinkedIn</a></li>
   </ul>
   <br>
-</details>
+</details>-->
 
 ## Skill Set 
 **Languages**
@@ -54,8 +54,8 @@
 
 
 **Database**
-
 <img width="52" height="52" src="https://a2a-expertise.com/wp-content/uploads/2018/12/mysql-70x70.png">
+<img width="52" height="52" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif">
 
-## You can reach me on :
-  - ✉ Email : evelinviru@gmail.com
+## You can reach me on:
+  - ✉ Email: jaden.hoenes@gmail.com
